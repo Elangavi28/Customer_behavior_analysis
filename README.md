@@ -22,7 +22,7 @@ This project is designed to showcase practical skills expected from a **Data Ana
 ## Tools & Technologies
 
 * **Programming & Analysis**: Python (Pandas)
-* **Databases**: MySQL Server
+* **Databases**: MySQL
 * **SQL**: Joins, Subqueries, Aggregations, Window Functions
 * **Visualization**: Power BI
 * **IDE**: VS Code / Jupyter Notebook
@@ -50,7 +50,7 @@ This project is designed to showcase practical skills expected from a **Data Ana
 
 ### 4. SQL Analysis
 
-* Loaded cleaned data into MySQL Server
+* Loaded cleaned data into MySQL
 * Wrote optimized SQL queries to answer business questions
 * Used:
   * GROUP BY & HAVING
@@ -94,26 +94,23 @@ The Power BI dashboard provides:
    This file contains:
    
     * Data Import
-
     * Data exploration
-
     * Data cleaning
-    
     * Connection to SQL Database
 
-3. **Load Data into Database**
+3. **Load the data from Python notebook into MySQL **
 
-   * Create the database (MySQL Server)
-   * Import cleaned data tables
+   * Create the database in MySQL
+   * Run Python code to load data into SQL database
+   * Open customer_behavior_sql_queries.sql
+   * Answer Business Questions using SQL Queries
 
-4. **Execute SQL Queries**
-
-   * Run queries provided in the `sql/` folder
-
-5. **Open Power BI Dashboard**
+4. **Connect the SQL Database to Power BI**
 
    * Connect Power BI to the database
    * Refresh data to view insights
+   * Open customer_behavior_dashboard.pbix
+   * Create interactive dashboard in Power BI
 
 ---
 
