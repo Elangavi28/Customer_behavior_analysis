@@ -89,34 +89,28 @@ The Power BI dashboard provides:
 
 ## How to Run This Project
 
-1. **Clone the Repository**
+1. **Open Customer_Analysis.ipynb notebook**
+   
+   This file contains:
+   
+    * Data Import
 
-   ```bash
-   git clone https://github.com/Elangavi28/Customer_behavior_analysis.git
-   cd https://github.com/Elangavi28/Customer_behavior_analysis
-   ```
+    * Data exploration
 
-2. **Set Up Python Environment**
+    * Data cleaning
+    
+    * Connection to SQL Database
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run Data Analysis**
-
-   * Open the Jupyter Notebook
-   * Execute cells in sequence for EDA and data cleaning
-
-4. **Load Data into Database**
+3. **Load Data into Database**
 
    * Create the database (MySQL Server)
    * Import cleaned data tables
 
-5. **Execute SQL Queries**
+4. **Execute SQL Queries**
 
    * Run queries provided in the `sql/` folder
 
-6. **Open Power BI Dashboard**
+5. **Open Power BI Dashboard**
 
    * Connect Power BI to the database
    * Refresh data to view insights
