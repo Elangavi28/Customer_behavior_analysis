@@ -92,7 +92,7 @@ The Power BI dashboard provides:
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Elangavi28/Customer_behavior_analysis
    ```
 
 2. **Set Up Python Environment**
