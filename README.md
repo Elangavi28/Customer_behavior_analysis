@@ -121,13 +121,3 @@ The Power BI dashboard provides:
 * Recruiter-friendly documentation and visuals
 * Real-world analytics workflow
 
----
-
-## Author
-
-**Elangavi S**
-Aspiring Data Analyst | SQL | Python | Power BI
-
----
-
-⭐ *If you find this project useful, feel free to star the repository!*
